@@ -5,32 +5,32 @@ let teamMembers = [
     {
         name: "Wayne Barnett",
         role: "Founder & CEO",
-        photoUrl: "",
+        photoUrl: "wayne-barnett-founder-ceo.jpg",
     },
     {
         name: "Angela Caroll",
         role: "Chief Editor",
-        photoUrl: "",
+        photoUrl: "angela-caroll-chief-editor.jpg",
     },
     {
         name: "Walter Gordon",
         role: "Office Manager",
-        photoUrl: "",
+        photoUrl: "walter-gordon-office-manager.jpg",
     },
     {
         name: "Angela Lopez",
         role: "Social Media Manager",
-        photoUrl: "",
+        photoUrl: "angela-lopez-social-media-manager.jpg",
     },
     {
         name: "Scott Estrada",
         role: "Developer",
-        photoUrl: "",
+        photoUrl: "scott-estrada-developer.jpg",
     },
     {
         name: "Barbara Ramos",
         role: "Graphic Designer",
-        photoUrl: "",
+        photoUrl: "barbara-ramos-graphic-designer.jpg",
     },
 ];
 
